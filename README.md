@@ -15,6 +15,3 @@ To run all the tests:
 1. Change directory to phase2/ directory
 2. mvn test
 
-To run the jar executable:
-1. Change directory to phase2/ directory
-2. java -jar game.jar
