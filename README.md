@@ -1,6 +1,6 @@
 # HauntedHalloweenJavaGame
 
-This repository holds all the code associated with designing and building a 2D Java Maze game. The most important src files are under main/phase2/src
+This repository holds all the code associated with designing and building a 2D Java Maze game. The most important src files are under main/phase2/src/main
 
 ## Build/Run Instructions
 
